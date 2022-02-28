@@ -1,0 +1,526 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of severall heresies, 1 Jesuites. 2 Socinians. 3 Arminians. 4 Arians. 5 Adamites. 6 Libertines. 7 Anti-scriptarians. 8 Soule-sleepers. 9 Anabaptis. [sic] 10 Familists. 11 Expectants &amp; Seekers. 12 Divorcers. 13 Pellagians. 14 Millenaries. 15 Anti-Sabitarians. 16 Anti-Trinitarians. 17 Sabatarians. 18 Separatists. 19 Apostolikes. 20 Antinomians. Discovering the originall ring-leaders, and the time when they began to spread: as also their dangerous opinions, and tenents. Unto which is added some particulars of an ordinance in debate (some heads of which already printed) for the preventing of the growing and spreading of heresie. Published according to order, by a wellwisher of truth &amp; peace.</title>
+            <author>Wellwisher of Truth &amp; Peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92356</idno>
+            <idno type="STC">Wing R807</idno>
+            <idno type="STC">Thomason E358_2</idno>
+            <idno type="STC">Thomason E863_2</idno>
+            <idno type="STC">ESTC R201151</idno>
+            <idno type="EEBO-CITATION">99861699</idno>
+            <idno type="PROQUEST">99861699</idno>
+            <idno type="VID">168355</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168355)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[2] or 130:E863[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of severall heresies, 1 Jesuites. 2 Socinians. 3 Arminians. 4 Arians. 5 Adamites. 6 Libertines. 7 Anti-scriptarians. 8 Soule-sleepers. 9 Anabaptis. [sic] 10 Familists. 11 Expectants &amp; Seekers. 12 Divorcers. 13 Pellagians. 14 Millenaries. 15 Anti-Sabitarians. 16 Anti-Trinitarians. 17 Sabatarians. 18 Separatists. 19 Apostolikes. 20 Antinomians. Discovering the originall ring-leaders, and the time when they began to spread: as also their dangerous opinions, and tenents. Unto which is added some particulars of an ordinance in debate (some heads of which already printed) for the preventing of the growing and spreading of heresie. Published according to order, by a wellwisher of truth &amp; peace.</title>
+                  <author>Wellwisher of Truth &amp; Peace.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. and are to be sold in Popes head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant edition has commas in place of parentheses on t.p.</note>
+                  <note>Annotation on Thomason copy E.358[2]: "Octo: 17th"; on E.863[2]: "Jan. 3. 1655".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heresies, Christian --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168355:1" rendition="simple:additions"/>
+            <p> A RELATION of ſeverall HERESIES,</p>
+            <list>
+               <item>1 <hi>Jeſuites.</hi>
+               </item>
+               <item>2 <hi>Socinians.</hi>
+               </item>
+               <item>3 <hi>Arminians.</hi>
+               </item>
+               <item>4 <hi>Arians.</hi>
+               </item>
+               <item>5 <hi>Adamites</hi>
+               </item>
+               <item>6 <hi>Libertines.</hi>
+               </item>
+               <item>7 <hi>Anti-ſcriptarians.</hi>
+               </item>
+               <item>8 <hi>Soule-ſleepers</hi>
+               </item>
+               <item>9 <hi>Anabaptists.</hi>
+               </item>
+               <item>10 <hi>Familiſts.</hi>
+               </item>
+               <item>11 <hi>Expectants &amp; Seekers.</hi>
+               </item>
+               <item>12 <hi>Divorcers.</hi>
+               </item>
+               <item>13 <hi>Pellagians.</hi>
+               </item>
+               <item>14 <hi>Millenaries.</hi>
+               </item>
+               <item>15 <hi>Anti-Sabitarians.</hi>
+               </item>
+               <item>16 <hi>Anti-Trinitarians.</hi>
+               </item>
+               <item>17 <hi>Sabatarians.</hi>
+               </item>
+               <item>18 <hi>Separatiſts</hi>
+               </item>
+               <item>19 <hi>Apoſtolikes.</hi>
+               </item>
+               <item>20 <hi>Antinomians.</hi>
+               </item>
+            </list>
+            <p>Diſcovering the Originall Ring-leaders, and the time when they began to ſpread: as alſo their dangerous Opinions, and Tenents.</p>
+            <p>Unto which is added ſome particulars of an Ordinance in debate, ſome heads of which already Printed, For the preventing of the growing and ſpreading of Hereſie.</p>
+            <p>Publſhed according to Order, by a wellwiſher of <hi>Truth</hi> &amp; <hi>Peace.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> and are to be ſold in <hi>Popes head Alley.</hi> 1646.</p>
+            <pb facs="tcp:168355:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:168355:2"/>
+            <head>A relation of Hereſies, deſcribing the Original Ring-leaders of the ſame, &amp; the time when they firſt bgan to ſpread, with a diſcovery of thoſe deſcribed in our times, and firſt of the</head>
+            <div type="part">
+               <head>Jeſuits</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Originall of theſe, was one <hi>Loyola</hi> a <hi>Spaniſh</hi> ſouldier; they beare the name of Jeſus, but came from the Devil the Fa<g ref="char:EOLhyphen"/>ther of Lyes.</p>
+               <p>This Order was confirmed by <hi>Paul</hi> the third Biſhop of <hi>Rome.</hi> in <hi>Anno</hi> 1540.</p>
+               <div type="subpart">
+                  <head>
+                     <hi>Their Errours are many but the chief are theſe,</hi> viz.</head>
+                  <p n="1">1 They preſumptuouſly arrogate to themſelves the name of Jeſus, a name above all names, and their chief generall equall with Chriſt.</p>
+                  <p n="2">2 Theſe chiefly maintain the Popes temporall pow<g ref="char:EOLhyphen"/>er, as well as his Spiritual, whereby he may depoſe Kings.</p>
+                  <p n="3">3 They deny the oath of allegeance.</p>
+                  <pb n="4" facs="tcp:168355:3"/>
+                  <p n="4">4 They do not teach it to be lawfull to murther Chriſtian Kings, but meritorious alſo.</p>
+                  <p n="5">5 the Jeſuits teach and maintain that the Pope only is <hi>Jure Divino</hi> a Biſhop, &amp; that all others hold from him.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Socinians.</head>
+               <p>Socinianiſme <hi>was ſo named from</hi> Lelius Socinus <hi>in Maſter</hi> Calvins <hi>time his opinions broached by letters,</hi>
+               </p>
+               <div type="subpart">
+                  <head>First concerning God.</head>
+                  <p n="1">1 That there is no naturall knowledge of God where<g ref="char:EOLhyphen"/>by to inſtant men to acknowledge or beleeve the Deity.</p>
+                  <p n="1">1 That the Incarnation of Chriſt is repugnant to rea<g ref="char:EOLhyphen"/>ſon, &amp; can no way ſufficiently be proved out of Scripture.</p>
+                  <p n="3">3 That Chriſt is not truly God, and that the belief of his Divine nature is not agreeable to Scripture.</p>
+                  <p n="4">4 That Chriſt did not by his death ſatisfie for our ſins.</p>
+                  <p n="5">5 That the Holy ghoſt is not God.</p>
+                  <p n="6">6 That it is repugnant to the word of God to believe three perſons and one God.</p>
+                  <p n="7">7 That man in the ſtate of innocencie was not crea<g ref="char:EOLhyphen"/>ted in originall righteouſneſſe.</p>
+                  <p n="8">8 That the old Teſtament is not neceſſary for a Chriſtian man, though it may be profitably read.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Arminians.</head>
+               <p>
+                  <hi>So called from</hi> James Arminius <hi>of</hi> Leydon <hi>in the Low countreys in the year</hi> 1605.</p>
+               <div type="subpart">
+                  <head>The errours concerning Prdeſtination.</head>
+                  <p n="1">1 THat in compleat and not peremptory Election of ſingular perſons is made by reaſon of foreſeen
+<pb n="5" facs="tcp:168355:3"/> faith, repentance, ſanctity and godlineſſe, that this is the gracious and Evangelicall worthineſſe, by which he that is choſen becomes worthier then he that is not choſen: And therefore that faith, the obedience of faith, Sancti<g ref="char:EOLhyphen"/>ty godlineſſe and perſeverance, are not the fruits, or ef<g ref="char:EOLhyphen"/>fects of the unchangeable Election unto Glory, but Con<g ref="char:EOLhyphen"/>ditions and Cauſes, without which a thing is not brought to paſſe before required and foreſeen, as already performed by thoſe who are compleatly to be choſen.</p>
+                  <p n="2">2 That all election to Salvation, is not unchangeable, but that ſome which are Elected withſtanding Gods de<g ref="char:EOLhyphen"/>cree may periſh, and for ever do.</p>
+                  <p n="3">3 That in this life there is no fruit nor fence or certain<g ref="char:EOLhyphen"/>ty of immutable Election unto Glory, but upon condi<g ref="char:EOLhyphen"/>tion contingent and mutable.</p>
+                  <p n="4">4 That it is abſurd to make an uncertain certainty that God out of his mere juſt will hath not decreed to leave any man in the fall of <hi>Adam</hi> and common ſtate of ſin and damnation, or to paſſe over any in the communi<g ref="char:EOLhyphen"/>cation of grace neceſſary to faith and converſion.</p>
+                  <p n="5">5 That the cauſe why God ſends the Goſpel to one nation rather then to another, is not the mere and onely good pleaſure of God, but becauſe ſuch a nation is better and more worthy of the Goſpel.</p>
+               </div>
+               <div type="subpart">
+                  <head>Further concerning the death of Chriſt and his Redemp<g ref="char:EOLhyphen"/>tion.</head>
+                  <p n="1">1 THat God ordained his ſon to the death of the Croſſe without any certaine or determinate counſel to ſave any particular man expreſly, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="2">2 That the will of God was not to eſtabliſh a new co<g ref="char:EOLhyphen"/>venant
+<pb n="6" facs="tcp:168355:4"/> of grace by the blood of Chriſt, but to pro<g ref="char:EOLhyphen"/>cure the making again with men any covenant, either of grace, or works.</p>
+                  <p n="3">3 That Chriſt by his death did not certainly merit for any mans ſalvation it ſelf, and faith by which this ſatisfaction of Chriſt may be fully applyed unto ſalva<g ref="char:EOLhyphen"/>tion, <hi>&amp;c.</hi>
+                  </p>
+                  <p n="4">4 That the covenant of Grace which the Father by the mediation of the death of Chriſt made with men, doth not conſiſt in their being juſtified before God, and ſaved by faith in apprehending the merit of Chriſt, but in this the exaction of perfect legall obedience being abrogated, reputes faith it ſelf, and the imperfect obedi<g ref="char:EOLhyphen"/>ence of faith for the perfect obedience of the Law.</p>
+                  <p n="5">5 That all men are received into the ſtate Reconcili<g ref="char:EOLhyphen"/>ation and grace of the Covenant, and none condemned for Originall ſinne.</p>
+                  <p n="6">6 That Chriſt neither did nor ought to die for thoſe whom God dearly loved, and choſe unto eternall life, ſeeing ſuch ſtood in no need of Chriſts death.</p>
+                  <p>With many other concerning mans corruptions, con<g ref="char:EOLhyphen"/>verſion, and the perſeverance of the Saints.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Arians</head>
+               <p>
+                  <hi>So called from</hi> Arius, <hi>Deacon of the Church of</hi> Alexandria <hi>who infected the World with this Hereſie, and was condem<g ref="char:EOLhyphen"/>ned by three hundred and eighteen Biſhops in the Councell of</hi> Nice <hi>under the Emperour</hi> Conſtantine <hi>the great and baniſhed.</hi>
+               </p>
+               <p n="1">1 They deny the Trinity of perſons.</p>
+               <pb n="7" facs="tcp:168355:4"/>
+               <p n="2">2 They deny the ſonne to be God.</p>
+               <p n="3">3 They deny the eternall generation of the Sonne, which is they ſay againſt reaſon and truth.</p>
+               <p n="4">4 They deny Chriſt to be called God in reſpect of his Eſſence, but by reaſon of his dominion.</p>
+               <p n="5">5 They deny the Holy Ghoſt to be God.</p>
+               <p>Theſe Hereticks have been burnt amongſt us hereto<g ref="char:EOLhyphen"/>fore, as in <hi>Anno</hi> 1611 <hi>March</hi> the 18. One <hi>Bartholomew Legate,</hi> and the <hi>April</hi> following one <hi>Edward whight<g ref="char:EOLhyphen"/>man</hi> burnt at <hi>Litchfield</hi> for the ſame.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Adamites. Of this Hereſie Saint</hi> Auguſtine <hi>makes mention.</hi>
+               </head>
+               <p n="1">1 They call the place of their meeting Paradiſe.</p>
+               <p n="2">2 They pray, heare, and celebrate the commnion naked according to the ſimilitude of <hi>Adam</hi> before his fall.</p>
+               <p>But more lately practiſed by a <hi>Piccard</hi> in <hi>Bohemia</hi> that came out of the Low countreys, and profeſſed himſelf to be the Son of God, he taught this ſect to go naked, and to call him <hi>Adam,</hi> terming him and his Sect freemen, and all the reſt ſlaves that weare clothes.</p>
+            </div>
+            <div type="part">
+               <head>Libertines that would aboliſh the Law.</head>
+               <p>The authour of theſe by <hi>Pontanus</hi> is deſcribed to be one <hi>John Agricola</hi> who ſpread this opinion in the yeare 1535. The particulars whereof follow;</p>
+               <div type="subpart">
+                  <pb n="8" facs="tcp:168355:5"/>
+                  <head>The partiulars whereof follow.</head>
+                  <p n="1">1 That the Law was not given to Chriſtian men.</p>
+                  <p n="2">2 The Law pertains to the wicked not to the Goſ<g ref="char:EOLhyphen"/>pell.</p>
+                  <p n="3">3 The ten commandments not to be taught in the Church, becauſe they that are Regenerate need not the Law; becauſe they do that duty willingly, be<g ref="char:EOLhyphen"/>ing led by the Spirit.</p>
+                  <p n="4">4 That there is no need of the Law to any part of our converſion.</p>
+                  <p n="5">5 It is ſufficint for a wicked man to believe and not doubt of his Salvation.</p>
+                  <p n="6">6 Faith and the Goſpell unknown to <hi>Moſes.</hi>
+                  </p>
+                  <p n="7">7 That good works cannot avail for ſalvation, nei<g ref="char:EOLhyphen"/>evil workes hinder.</p>
+                  <p n="8">8 That a Chriſtian man cannot be known by his works.</p>
+                  <p n="9">9 That the Rule of the Law, is not a Rule of life.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Antiſcripturians of old mentioned by a judicious Divine.</head>
+               <p>
+                  <hi>The Hereticks that lived in former times raiſed up from the pit of hell by Satan himſelf to disturb and de<g ref="char:EOLhyphen"/>ſtroy the faith of many, have called ſundry of theſe books of holy Scripture into queſtion, and rejected them altoge<g ref="char:EOLhyphen"/>ther as Baſtards, and Counterfeits.</hi>
+               </p>
+               <p n="1">1 <hi>Fauſtus</hi> the <hi>Manichee</hi> as Saint <hi>Auguſtine</hi> witneſ<g ref="char:EOLhyphen"/>eth <note place="margin">
+                     <hi>Aug. Con. Fauſt. Lib.</hi> 33. <hi>cap.</hi> 3. <hi>Fren. lib. cap.</hi> 26. <hi>Epiph. Her.</hi> 32. <hi>Euſeb. hiſt. lib.</hi> 4. <hi>cap.</hi> 29.</note> was not aſhamed to open his blaſphemous mouth and affirm that many things in them Teſtament were falſe.</p>
+               <pb n="9" facs="tcp:168355:5"/>
+               <p n="2">2 The <hi>Ebionites</hi> would receive onely the Goſpell ac<g ref="char:EOLhyphen"/>cording <note place="margin">
+                     <hi>Hiero Praefat. in tit. Tertul. Lib.</hi> 5. <hi>adverſus Marcion</hi>
+                  </note> to <hi>Matthew,</hi> the other three they deſpiſed and refuſed.</p>
+               <p n="3">3 The <hi>Marchionites</hi> another deteſtable and damned Sect, uſed onely <hi>Lukes</hi> Goſpel, and that alſo they mi<g ref="char:EOLhyphen"/>ſerably mangled, according to their own deviliſh fan<g ref="char:EOLhyphen"/>cie.</p>
+               <p n="4">4 The <hi>Tacians</hi> and other hereticks called <hi>Severiani</hi> as <hi>Euſebius</hi> makes mention in his Hiſtory ſet at naught the Acts of the Apoſtles, and <hi>Pauls</hi> Epiſtles.</p>
+               <p n="5">5 <hi>Marcion</hi> and <hi>Baſilides</hi> refuſed both the Epiſtles unto <hi>Timothy,</hi> that to <hi>Titus</hi> and the <hi>Hebrews;</hi> for what<g ref="char:EOLhyphen"/>ſoever they ſaw to croſſe or contradict their Hereſies, they razed out of the Canon, and would not receive it as Authenticall; ſo that ſome have renounced the E<g ref="char:EOLhyphen"/>piſtle to the <hi>Hebrews,</hi> ſome the latter Epiſtle of <hi>Peter,</hi> ſome the Epiſtle of <hi>James,</hi> ſome the Epiſtles to <hi>Timothy</hi> and <hi>Titus,</hi> and other the two latter familiar Epiſtles of <hi>John</hi> as not agreeing with their hereſies,</p>
+            </div>
+            <div type="part">
+               <head>Anti-Scriptarians of our times.</head>
+               <p n="1">1 That the Scriptures cannot be ſaid to be the word of God, becauſe there is no word but Chriſt, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 That the Scriptures are unſufficient and uncer<g ref="char:EOLhyphen"/>tain, and they are not an infallible rule of faith, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3 That the pen men of Scripture every one writ as themſelves conceived; they were the Actions of their own ſpirits which moved them to write and ſpeak.</p>
+               <p n="4">4 That the Scriptures of the old Teſtament do not concern nor bind Chriſtians under the new, <hi>&amp;c.</hi>
+               </p>
+               <pb n="10" facs="tcp:168355:6"/>
+               <p n="5">5 That right reaſon is the rule of faith, and we are to believe all the Scriptures ſo far as they are agreea<g ref="char:EOLhyphen"/>ble to reaſon.</p>
+            </div>
+            <div type="part">
+               <head>Soul-ſleepers.</head>
+               <p n="1">1 That the ſoul dieth with the body, and all things ſhall have an end but God onely.</p>
+               <p n="2">2 That the ſoul dieth with the body, and was held in the time of <hi>Origen</hi> in <hi>Arabia,</hi> much extinguiſhed by his diſpute preſently after the birth: this opinion is now raiſed again amongſt us, and endeavoured to be maintained in a treatiſe lately publiſhed, entituled <hi>Mans mortality.</hi> One argument is out of <hi>Gen.</hi> 3. 19. where it is ſaid <hi>Adam</hi> ſhall return to duſt again. I ſhal here end with particulars, becauſe Hiſtorians menti<g ref="char:EOLhyphen"/>on few other; and deſcend to our times,</p>
+            </div>
+            <div type="part">
+               <head>Anabaptists.</head>
+               <p>
+                  <hi>The chief author of the Errors held by theſe Anabaptiſts about the year</hi> 1524. <hi>was according to</hi> Melancthon <hi>one</hi> Nicholas Storke, <hi>after much pains of preaching by Do<g ref="char:EOLhyphen"/>ctor</hi> Luther <hi>in Saxony, and by a Scholler of</hi> Storks <hi>much diſperſt, if hystory be true; the practiſe of theſe opinions was attended by monstrous cruelty.</hi>
+               </p>
+               <p>
+                  <hi>The ancient Errours of theſe Anabaptiſts recorded by</hi> Bullinger <hi>and others in the Church, are theſe;</hi>
+               </p>
+               <p n="1">1 That Chriſt did not aſſume his fleſh and blood from the Virgin <hi>Mary.</hi>
+               </p>
+               <pb n="11" facs="tcp:168355:6"/>
+               <p n="2">2 That Chriſt is not true God, but onely endued with more gifts then other men.</p>
+               <p n="3">3 Our righteouneſſe not to depend upon faith in Chriſt, but upon the works of Charity and Affliction.</p>
+               <p n="4">4 They deny the doctrine of Originall ſinne, and thoſe that depend upon the ſame.</p>
+               <p n="5">They deny Baptiſme to Infants, becauſe they are not capable of faith and repentance.</p>
+               <p n="6">6 They rebaptiſed thoſe that were baptiſed in their Infancy.</p>
+               <p n="7">7 They hold that before the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y of J<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dgement the wicked ſhould be deſtroyed, and the godly only ſhould reigne alone.</p>
+               <p n="8">8 They teach free will in ſpirituall things.</p>
+               <p n="9">9 They ſeparate from all other men as impure.</p>
+               <p n="10">10 That Lay men may preach and adminiſter Sa<g ref="char:EOLhyphen"/>craments.</p>
+               <div type="subpart">
+                  <head>Errours in the Common wealth.</head>
+                  <p n="1">1 That it is unlawfull for a Chriſtian man to be a Magiſtrate.</p>
+                  <p n="2">2 That it is unlawfull to puniſh any offendor with death.</p>
+                  <p n="3">3 That a Chriſtian man cannot with a ſafe con<g ref="char:EOLhyphen"/>ſcience take an oath.</p>
+                  <p n="4">4 That it is unlawfull to take up Armes for Laws and Civil Liberties.</p>
+               </div>
+               <div type="subpart">
+                  <pb n="12" facs="tcp:168355:7"/>
+                  <head>Errours in Families.</head>
+                  <p n="1">1 That a Chriſtian may not poſſeſſe any thing pro<g ref="char:EOLhyphen"/>per to himſelf, but what he hath ought to be common.</p>
+                  <p n="2">2 That a wife of a contrary religion may be put away.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Familists.</head>
+               <p>
+                  <hi>The authour of which Sect is more lately deſcribed to appear ſince</hi> 1600, <hi>which was one</hi> David George <hi>of</hi> Delph, <hi>after him one</hi> Henry Nicholas <hi>born in</hi> Am<g ref="char:EOLhyphen"/>ſterdam.</p>
+               <p n="1">1 Concerning God that there is no other Deity be<g ref="char:EOLhyphen"/>longing unto God, but that which men are partakers of in this life.</p>
+               <p n="2">2 Concerning Chriſt, 1 That Chriſt is not God. 2 That Chriſt is not one man, but an eſtate and condition in men.</p>
+               <p n="3">3 Of <hi>Adam,</hi> that <hi>Adam</hi> was all that God was, and God all that <hi>Adam</hi> was.</p>
+               <p n="4">4 Of Baptiſme, that none ſhould be baptiſed un<g ref="char:EOLhyphen"/>till he was thirty yeares of age.</p>
+               <p n="5">5 Concerning the word, that there was never truth preached ſince the Apoſtles times before <hi>H. N.</hi>
+               </p>
+               <p n="6">6 Concerning the Reſurrection: 1 the Reſurrecti<g ref="char:EOLhyphen"/>on of the body is a riſing from ſinne and wickedneſſe. 2 That the dead ſhal riſe and live in <hi>H. N.</hi> &amp; in the il<g ref="char:EOLhyphen"/>luminated elders everlaſtingly, &amp; reign upon the earth</p>
+               <p n="7">7 Concerning the day of judgement, 1 That the day of judgement is in this life. 2 That the joyes of heaven are upon the earth.</p>
+               <pb n="13" facs="tcp:168355:7"/>
+               <p n="8">8 Concerning marriage, that the marriage of ſuch as are not enlightned with true faith is filthy &amp; polluted</p>
+               <p n="9">9 Concerning <hi>H. N.</hi> 1 That he is raiſed from the dead, 2 He can no more erre then <hi>Moſes</hi> or Chriſt. 3 He is the true prophet of God ſent to blow the laſt trumpet of Doctrine which ſhall be publiſhed upon the earth. 4 That he onely knoweth the true ſence of Scripture. 5 that his books are of equall authority with Scripture, 6 That the Scriptures are fulfilled in <hi>H. N.</hi> and his family. 7 <hi>H. N.</hi> knows the ſecrets of our hearts. 8 That all men muſt ſubmit to him.</p>
+               <p n="10">10 Concerning the illuminated Elders and Fami<g ref="char:EOLhyphen"/>ly, all illuminated Elders are Godded with God, or Deified; &amp; God in them hominified or become man, 2 the diſciples are <hi>Adams,</hi> and the illuminated Elders Chriſts, 3 the eldeſt father of the family is Chriſt him<g ref="char:EOLhyphen"/>ſelf, 4 That the eſtate of al ſuch as are not of this Sect, is a falſe being, the Antichriſt, the wicked ſpirit, the Kingdom of hell, and the Devil himſelf, 5 the Family of Love is perfect in this life, and therefore ought not to pray for forgivenes of ſin, 6 that their illuminated Elders do not ſin. 7 that they may joyn with any con<g ref="char:EOLhyphen"/>gregation, and live in any ſtate under any Magiſtrate in obedience though never ſo ungodly: 8 whatſoever is taught by any other then their illuminated Elders, is falſe.</p>
+               <p n="11">11 Concerning their congregation, 1 he that is one of them, is perfect as Chriſt, 2 That it is lawfull to do whatſoever the higher power commands. 3 it is ridiculous to ſay God the Father, God the Sonne, and God the Holy ghoſt, as that they ſo ſaying ſhould
+<pb n="14" facs="tcp:168355:8"/> affirm three Gods, 4 that every man muſt firſt be in an errour, before he can come to the knowledge of the truth. 5 That heaven and hell are preſent in this world, and that there is none other. 6 That they are bound to give almes to none but of their Sect. 7 That they ought not to bury their dead, becauſe it is ſaid let the dead bury their dead. 8 That none ought to receive the Sacrament before he receives the whole or<g ref="char:EOLhyphen"/>dinances, as 1 to be admitted with a kiſſe; then his feet muſt, <hi>&amp;c.</hi> 9 They ought not to ſay <hi>Davids</hi> Pſalms as prayers being without ſinne, 10 That there ought to be no Sabbath day, but all dayes alike. 11 That the Law of God is poſſible to be kept. 12 That it is ex<g ref="char:EOLhyphen"/>pedient to manifeſt their whole hearts with all their counſells, minds and will together, with their thoughts and doings, and exerciſes, bare and naked, and not to cover or hide any thing before the children of <hi>Love.</hi>
+               </p>
+               <p n="1">1 That there is but one ſpirit or life in all creatures both in heaven earth and hell, and that life which is one and the ſame in all creatures, is abſolutely and eſ<g ref="char:EOLhyphen"/>ſentially God.</p>
+               <p n="2">2 That all things whatſoever are the act of God; that all Creatures, Angels and men, are at all times, in all works acted and ruled by the Spirit of God.</p>
+               <p n="3">3 That nothing ſhall remain to eternity, but ſhall periſh and come to nothing, but the Deity that is now the life of all creatures.</p>
+               <p n="4">4 That the Bible is a mere ſhadow, a falſe hiſtory, a confuſed, being Allegory, being of no more authority then any other book or the <hi>Apochrypha.</hi>
+               </p>
+               <pb n="15" facs="tcp:168355:8"/>
+               <p n="5">5 They hold that all ordinances are but meat for babes, and that we ſhould live above them, and with<g ref="char:EOLhyphen"/>out the uſe of them.</p>
+               <p n="6">6 That perfection in the higheſt degree both of grace and glory is to be en<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyed in this life.</p>
+            </div>
+            <div type="part">
+               <head>Expectants and Seekers.</head>
+               <p n="1">1 That there is no Church nor Ordinances, nor Mini<g ref="char:EOLhyphen"/>ſtery in the world.</p>
+               <p n="2">2 That it is the will of God, that miracles ſhould attend the Miniſtery, as in the Primitive times.</p>
+            </div>
+            <div type="part">
+               <head>Divorcers,</head>
+               <p>That will put away their wives for ſmall offence not regarding the word of our Saviour <hi>Mat.</hi> 19. 9. That whoſoever ſhall put away his wife, except it be for whoredome, committeth adultery, and whoſoever marrieth her that is divorced committeth adultery.</p>
+            </div>
+            <div type="part">
+               <head>Pelagians.</head>
+               <p>
+                  <hi>From</hi> Pelagius <hi>a</hi> Welch <hi>man, in</hi> Welch <hi>his name was</hi> Morgan <hi>which ſignifies the Sea; he lived in the yeare</hi> 416. <hi>in the time of the Emperour</hi> Theodoſius <hi>the young<g ref="char:EOLhyphen"/>er; he was condemned in the Synod of</hi> Carthage <hi>Anno.</hi> 423. <hi>in which were aſſembled</hi> 217 <hi>Biſhops, Saint</hi> Au<g ref="char:EOLhyphen"/>guſtine <hi>was one amongſt them. His errours are reported to be theſe.</hi>
+               </p>
+               <pb n="16" facs="tcp:168355:9"/>
+               <p n="1">1 That <hi>Adam</hi> had died although he had not ſinned by the law of nature, &amp; ſo ſin was not the cauſe of death.</p>
+               <p n="2">2 <hi>Adams</hi> ſinne was onely noxious to himſelf, and not to his poſterity, that there was no originall ſin.</p>
+               <p n="3">3 Luſt and Concupiſcence were naturall not evil but rather good, and that ſinne was not propagated by generation.</p>
+               <p n="4">4 Children have no original ſin from their Parents.</p>
+               <p n="5">5 Children of the faithfull, though not baptiſed, ſaved; and enjoy everlaſting life, but not in heaven.</p>
+               <p n="6">6 Men to have free will, even after ſin ſufficiently to do well without Gods grace.</p>
+               <p n="7">7 Grace to be obtained by the merit of our works.</p>
+               <p n="8">8 Grace in Scripture not meant of pardon of ſinne, and giving the Holy ghoſt, but the promulgation of Doctrine.</p>
+               <p n="9">9 Faith onely the knowledge of the Law and hi<g ref="char:EOLhyphen"/>ſtory, not a ſpeciall work for perſeverance.</p>
+               <p n="10">10 The Law of God to be ſatisfied by eternall obe<g ref="char:EOLhyphen"/>dience, not impoſſible for a man to keep.</p>
+            </div>
+            <div type="part">
+               <head>Millenaries.</head>
+               <p n="1">1 That hold for Chriſts perſonall reigne.</p>
+               <p n="2">2 That Chriſt ſhall come perſonally from heaven and reigne with his Saints upon earth a thouſand yeares before the day of Judgement.</p>
+            </div>
+            <div type="part">
+               <head>Antitrinitarians.</head>
+               <p n="1">1 That in the Unity of the Godhead, there is not a
+<pb n="17" facs="tcp:168355:9"/> Trinity of perſons. <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 That there are not three diſtinct perſons in the Divine Eſſence, but onely three diſtinct offices, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3 That Chriſts humane nature is defiled with ori<g ref="char:EOLhyphen"/>ginall ſinne as well as ours, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Anti-Sabbatarians.</head>
+               <p>That all dayes are alike to Chriſtians under the new Teſtament, and they are bound no more to obſerve the firſt day of the week then any other.</p>
+            </div>
+            <div type="part">
+               <head>Sabbatarians.</head>
+               <p>That the Jewiſh Sabbath is ſtill to be kept by Chriſtians.</p>
+            </div>
+            <div type="part">
+               <head>Separatiſts.</head>
+               <p n="1">1 That it is as neceſſary to be joyned in Church fel<g ref="char:EOLhyphen"/>lowſhip as with Chriſt the head, and ſuch a neceſſity as there is no expectation of Salvation without it.</p>
+               <p n="2">2 That the Church of <hi>England</hi> and the Miniſtery thereof is Antichriſtian and of the Devil, and that it is abſolutely ſinfull, and unlawfull to heare any of them.</p>
+            </div>
+            <div type="part">
+               <head>Apoſtolicks.</head>
+               <p n="1">1 That many Chriſtians in theſe dayes have more knowledge then the Apoſtles, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 That there is a ſalvation to be revealed unknown to the Apoſtles themſelves.</p>
+               <p n="3">3 That in a ſmall time God will raiſe up Apo<g ref="char:EOLhyphen"/>ſtles, men extraordinarily endued with viſible infalli<g ref="char:EOLhyphen"/>ble gifts to preach the Goſpell, <hi>&amp;c.</hi>
+               </p>
+               <pb n="18" facs="tcp:168355:10"/>
+               <p n="4">4 That the gift of miracles is not ceaſed in theſe times.</p>
+               <p n="5">5 That miracles are eſſentiall to the adminiſtration holden forth in the commiſſion of Baptiſme.</p>
+            </div>
+            <div type="part">
+               <head>Errours touching free-will.</head>
+               <p n="1">1 There is no free will in man either to good or e<g ref="char:EOLhyphen"/>vil, either in his naturall or glorified eſtate.</p>
+               <p n="2">2 That there is a power in man to reſiſt grace, and that the grace which would convert one man, would not convert another.</p>
+               <p n="3">3 That regenerate men who have true grace, may fall totally and finally away.</p>
+            </div>
+            <div type="part">
+               <head>Errours touching free Grace held by Antinomians.</head>
+               <p n="1">1 That the morall Law is of no uſe to believers, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 That the Doctrine of repentance is a Soul-de<g ref="char:EOLhyphen"/>ſtroying doctrine.</p>
+               <p n="3">3 That there ought to be no faſting dayes under the Goſpell.</p>
+               <p n="4">4 That believers have nothing to do to take care or to look to themſelves, to keep from ſinne, <hi>&amp;c.</hi>
+               </p>
+               <p n="5">5 That God loves his children as well ſinning as praying.</p>
+            </div>
+            <div type="part">
+               <head>Errours touching the Reſurrection.</head>
+               <p n="1">1 Infants riſe not again, becauſe they are not capa<g ref="char:EOLhyphen"/>ble of knowing God, and therefore not of enjoying him.</p>
+               <p n="2">2 That there is no Reſurrection at all of the bodies of men after this life, nor heaven, nor hell, nor Devils.</p>
+            </div>
+            <div type="part">
+               <head>Errours touching Chriſts dying for all.</head>
+               <p n="1">1 That Chriſt dyed for all men, alike for the Re<g ref="char:EOLhyphen"/>probate
+<pb n="19" facs="tcp:168355:10"/> as well as the elect, and that not onely ſuffici<g ref="char:EOLhyphen"/>ently, but effectually, &amp;c.</p>
+               <p n="2">2 That Chriſt did onely ſatisfie for the ſins againſt the firſt covenant, not for the ſinnes againſt the ſecond, &amp;c.</p>
+               <p n="3">3 Every man ſatisfies for himſelf for the ſinnes a<g ref="char:EOLhyphen"/>gainſt the ſecond Covenant; namely unbelief, &amp;c.</p>
+               <p n="4">4 That men may be ſaved without Chriſt, and the very heathens are ſaved if they ſerve God according to that knowledge God hath given them, though they never heard of Chriſt.</p>
+               <p n="5">5 That there is no Originall ſinne in us; onely <hi>A<g ref="char:EOLhyphen"/>dams</hi> firſt ſinne was Originall.</p>
+               <p n="6">6 That the guilt of <hi>Adams</hi> ſin, is imputed to no man.</p>
+            </div>
+            <div type="part">
+               <head>New Errors tending to Libertiniſme.</head>
+               <p n="1">1 That God hath a hand in, and is the authour of the ſinfulneſſe of his people.</p>
+               <p n="2">2 That it is the will and command of God, that ſince the coming of his ſonne, a permiſſion of the moſt Paganiſh, Jewiſh, Turkiſh or Antichriſtian conſcien<g ref="char:EOLhyphen"/>ces, and worſhip, be granted to all men in all nations and countreys.</p>
+               <p n="3">3 That no man was caſt into hell for any ſinne, but onely God would have it ſo.</p>
+               <p n="4">4 That man had life before God breathed into him, and that which God breathed into him was part of the Divine Eſſence, and ſhall return unto God again.</p>
+               <p n="5">5 That the Prince of the Aire that rules in the chil<g ref="char:EOLhyphen"/>dren of diſobedience is God, and that there is no other Spirit but one, which Spirit is God.</p>
+               <p n="6">6 That God hath not decreed all the actions of men,
+<pb n="20" facs="tcp:168355:11"/> becauſe men doing what God decreed do not ſinne.</p>
+               <p n="7">7 That God was never diſpleaſed with men, for if he were and pleaſed again, there is a changeableneſſe in God.</p>
+               <p n="8">8 That God loves not one man more then another before the world, neither is there any particular ele<g ref="char:EOLhyphen"/>ction, but onely generall and conditionall, the Scrip<g ref="char:EOLhyphen"/>tures no where ſpeaking of reprobates, or reprobation.</p>
+               <p>There are many more recited by Maſter <hi>Edwards</hi> and Maſter <hi>Paget</hi> and others; but this is not the way to decreaſe Errors by a violent furious repetition of them. A diſcovery of fewer Errors ſolidly confu<g ref="char:EOLhyphen"/>ted, will, if done in the ſpirit of Love, prove a better imployment, then to diſcover hundreds and ſpend no<g ref="char:EOLhyphen"/>thing but wrath and fleſhly carnall cenſures upon them; certainly it would be far more acceptable to God and Jeſus Chriſt to turn one that is going on in an Errour, then to diſcover one hundred for him to fall into. It is a great ſin in many to pry into Gods ſecrets; and it is as great a ſinne alſo in many, to ſet too high a price upon Ignorance. I ſhall end with thoſe Scripture admonitions deſiring they may be more ſeriouſly thought on then yet they are by both parties.</p>
+               <q>
+                  <p>But if ye have bitter envying and ſtrife in your hearts rejoyce not <hi>&amp;c.</hi>
+                  </p>
+                  <note place="margin">
+                     <bibl>
+                        <hi>Iames</hi> 3. 14.</bibl>
+                  </note>
+               </q>
+               <q>
+                  <p>This wiſdome deſcendeth not from above, but is earthly, ſenſuall, and diveliſh.</p>
+                  <note place="margin">
+                     <bibl>15.</bibl>
+                  </note>
+               </q>
+               <q>
+                  <p>For where envying and ſtrife is, there is ſedition, and all manner of evil works.</p>
+                  <note place="margin">
+                     <bibl>16.</bibl>
+                  </note>
+               </q>
+               <q>
+                  <p>And the fruit of righteouſneſſe is ſown in peace, of them that make peace.</p>
+                  <note place="margin">
+                     <bibl>18.</bibl>
+                  </note>
+               </q>
+            </div>
+         </div>
+         <div type="ordinance">
+            <pb n="21" facs="tcp:168355:11"/>
+            <head>The heads of an <hi>Ordinance,</hi> preſen<g ref="char:EOLhyphen"/>ted to the Honorable <hi>Houſe of</hi> Commons, by Mr. <hi>Bacon,</hi> a Lawyer in <hi>Suffolk,</hi> and Maſter <hi>Taet,</hi> both of them Members of the ſame Houſe, and by their means was twice read, and refer<g ref="char:EOLhyphen"/>red to a <hi>Committee. For the pre<g ref="char:EOLhyphen"/>venting of the growing and ſpread<g ref="char:EOLhyphen"/>ing of Hereſies.</hi>
+            </head>
+            <p>BE it ordained, that all ſuch as ſhall from and after the date hereof, willingly preach, teach, print or write, publiſh and maintain any ſuch opinion contrary to the Doctrines enſuing;</p>
+            <p>
+               <hi>Viz.</hi> That God is preſent in all places, That God is, or that he is One in three Perſons, or doth know or foreknow all things; or that he is Almighty, or that he is perfectly Holy, Or that he is Eternall<g ref="char:punc">▪</g> Or that ſhall in like manner publiſh That Chriſt is not God coequall with the Father; Or ſhall deny the Manhood of Chriſt, Or that the Godhead and Manhood of Chriſt are ſeverall Natures, Or that the Manhood of Chriſt is pure, unſpotted of ſinne; Or that ſhall publiſh, that Chriſt did not die, or roſe from the dead nor is aſcended into Heaven bodily, Or that his death
+<pb n="22" facs="tcp:168355:12"/> is meritorious in behalf of Believers. Or that ſhall publiſh or maintain, as aforeſaid, that Chriſt is not the Sonne of God, Or that the Holy Ghoſt is not God, Or that the Scriptures are not the Word of God, Or that the Bodies of Men ſhal not riſe after they be dead, Or that there is no day of Judgement after death.</p>
+            <p>Such publiſhing with obſtinacy, ſhall be judged Felony, Such perſons ſhall by two witneſſes be bound over by two Juſtices unto the Gaol-delivery, and the Delinquent ſhall be indicted for Felony; and upon finding the ſame indictment, and that the party be found guilty, and ſhall not abjure his ſaid error, he ſhall ſuffer the pains of death without benefit of Clergy: But upon abjuring of the ſaid error, he ſhall upon two ſufficient Sureties be bailed.</p>
+            <p>And be it further ordained, that if after abjuring the ſaid errors, he ſhall publiſh it again, he ſhall be in<g ref="char:EOLhyphen"/>dicted and put to death.</p>
+            <p>And be it further ordered, that if any perſon, ſhall wittingly and preſumptuoſly, or contrary to admoni<g ref="char:EOLhyphen"/>tion, blaſpheme the name of God, or any of the Holy Trinity, or ſhall impugne the word of God, ſuch offen<g ref="char:EOLhyphen"/>ces ſhall be adjudged Felony, and the Offender com<g ref="char:EOLhyphen"/>mitted without Bail or Main-prize; and the party being found guilty ſhall be branded in the left Cheek with the Letter B. and upon the like offence the ſe<g ref="char:EOLhyphen"/>cond time ſhall ſuffer death.</p>
+            <p>And be it further ordained, that all perſons who ſhall publiſh any of the ſeverall errors hereafter en<g ref="char:EOLhyphen"/>ſuing, <hi>viz.</hi> That all men ſhall be ſaved; That a man by nature hath free will to turn to God; that God
+<pb n="23" facs="tcp:168355:12"/> may be worſhipt by Pictures or Images; or that the ſoul of any man after death goes neither to Heaven nor Hell, but to Purgatory; or that the ſoul of man dies or ſleeps when the body is dead; or that the re<g ref="char:EOLhyphen"/>velations or workings of the ſpirit are a rule for a Chriſtians life, though divers from or contrary to to the written Word of God; or that a man is bound to believe no more then by his reaſon he can compre<g ref="char:EOLhyphen"/>hend; or that the Morall Law contained in the Tenne Commandements, is no rule of a Chriſtians life; or that God ſees no ſinne in the juſtified; or that a belie<g ref="char:EOLhyphen"/>ver need not repent nor pray for the pardon of ſinne; or that the two Sacraments of Baptiſme; and the Lords Supper are not Ordinances commanded by the Word of God; or that the Baptizing of Infants is un<g ref="char:EOLhyphen"/>lawfull; or that ſuch Baptizing is void, and of none effect; or that ſuch perſons are to be Baptized again: and in purſuance rhereof, ſhall baptize any perſon formerly baptized: or that the obſervation of the Lords Day, as it is injoyned by the Ordinances and laws of this Realm, is not according, or contrary to the Word of God, Or that it is not lawfull to joyn in pub<g ref="char:EOLhyphen"/>lick, or Family Prayer, or to teach children to pray; Or that the Churches of <hi>England</hi> are not true Churches; Or that the Miniſters or Ordinances are not true Miniſters or Ordinances, Or that the Church government by Presbyterie, is Antichriſtian or unlawfull; Or that the Magiſtracie or power of the Civill Magiſtrate by Law eſtabliſhed in <hi>England,</hi> is unlawfull; Or that all the uſe of armes for publick defence, (be the cauſe never ſo juſt) is unlawfull.</p>
+            <pb n="24" facs="tcp:168355:13"/>
+            <p> And in caſe the party ſo accuſed for any of the ſaid errors be committed before two Juſtices, the party ſo committed ſhall be ordered to renounce his ſaid er<g ref="char:EOLhyphen"/>ror in the publick Congregation of the Pariſh Church whence the complaint comes; and in caſe he refuſes or neglects the ſame at or upon the day, time, and place appointed by the ſaid Juſtices, that he ſhall be committed to priſon by the ſaid Juſtices, untill he ſhall find two Sureties, of ſubſidie men that he ſhall not publiſh or maintain the ſaid error or errors any more.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
